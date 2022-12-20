@@ -1,4 +1,4 @@
-### How to setup
+### How to setup for Hw5-1
 
 #### 1. Add libraries for erpc, PWM, bbcar.
 
